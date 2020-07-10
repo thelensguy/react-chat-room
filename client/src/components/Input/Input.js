@@ -3,7 +3,7 @@ import React from "react";
 import onlineIcon from "../../icon/onlineIcon.png";
 import closeIcon from "../../icon/closeIcon.png";
 
-import "./InfoBar.css";
+import "./Input.css";
 
 const Input = ({ message, setMessage, sendMessage }) => (
   <form className="form">
